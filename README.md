@@ -1,23 +1,3 @@
----
-page_type: sample
-languages:
-- azdeveloper
-- aspx-csharp
-- csharp
-- bicep
-- typescript
-- html
-products:
-- azure
-- azure-sql-database
-- azure-app-service
-- azure-monitor
-- azure-pipelines
-- aspnet-core
-urlFragment: todo-csharp-sql
-name: React Web App with C# API and SQL Database on Azure
-description: A complete ToDo app with C# API and Azure SQL database for storage. Uses Azure Developer CLI (azd) to build, deploy, and monitor
----
 <!-- YAML front-matter schema: https://review.learn.microsoft.com/en-us/help/contribute/samples/process/onboarding?branch=main#supported-metadata-fields-for-readmemd -->
 
 # React Web App with C# API and SQL Database on Azure
